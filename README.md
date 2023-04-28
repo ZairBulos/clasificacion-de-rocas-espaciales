@@ -13,19 +13,19 @@ En esta ruta de aprendizaje se ofrece una vista de los mundos de la IA y el espa
 
 ### Requisitos previos
 
-* Ruta de aprendizaje [Rol de Python en la exploración espacial]()
+* Ruta de aprendizaje [Rol de Python en la exploración espacial](https://github.com/ZairBulos/python-exploracion-espacial)
 * Visual Studio Code con la extensión Python
 
 ## Módulos en esta ruta de aprendizaje
 
-> [Información sobre rocas espaciales y cómo clasificarlas]() <br/>
+> [Información sobre rocas espaciales y cómo clasificarlas](https://github.com/ZairBulos/clasificacion-de-rocas-espaciales/tree/main/01) <br/>
 > Obtenga información sobre rocas espaciales, dónde se encuentran y por qué son útiles para la investigación científica.
 
-> [Preparación para investigar rocas espaciales mediante inteligencia artificial]() <br/>
+> [Preparación para investigar rocas espaciales mediante inteligencia artificial](https://github.com/ZairBulos/clasificacion-de-rocas-espaciales/tree/main/02) <br/>
 > Conozca los aspectos sobre la investigación científica de rocas espaciales y cómo mejorarla con inteligencia artificial.
 
-> [Análisis de imágenes de rocas mediante inteligencia artificial]() <br/>
+> [Análisis de imágenes de rocas mediante inteligencia artificial](https://github.com/ZairBulos/clasificacion-de-rocas-espaciales/tree/main/03) <br/>
 > Identifique los datos que debe agregar a un módulo de inteligencia artificial que clasifica las rocas espaciales de fotos aleatorias.
 
-> [Clasificación de tipos de rocas espaciales en fotos aleatorias mediante inteligencia artificial]() <br/>
+> [Clasificación de tipos de rocas espaciales en fotos aleatorias mediante inteligencia artificial](https://github.com/ZairBulos/clasificacion-de-rocas-espaciales/tree/main/04) <br/>
 > Aprenda a crear un modelo de inteligencia artificial para predecir los tipos de rocas espaciales en las imágenes. Entrene y pruebe el modelo mediante fotos aleatorias.
